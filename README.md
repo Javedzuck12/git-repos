@@ -1,3 +1,3 @@
 # git-repos
 based on project
-author-jabed 
+programmed by -jabed 
